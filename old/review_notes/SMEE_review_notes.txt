@@ -1,0 +1,28 @@
+notes on SMEE review
+
+*** checklist *** 
+1. time domain and spec waveform reconstruction, 
+2. ? 
+3. We have to make lots of documentation. Put everything in git. Make some example tutorials. Make a review wiki page. 
+
+*** review readiness presentation ***
+1. Check this is ok with SN group. 
+2. Publication goals is contribute to O3 detection paper.
+3. How would we present results in O3 paper? We will provide statements on explosion mechanism, g-modes, sasi and probibilty that the signal is actually just a glitch. (Check SN group is ok with this)
+4. How mature is the analysis? Almost but not quite ready. 
+5. Results so far. None because no detection.
+6. What remains to be done.
+-- get everything in git
+-- write documentation and some examples
+-- try and fix any remaining small bugs
+-- start doing review tests
+7. Optimise code
+
+
+
+
+
+
+
+
+

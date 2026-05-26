@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: paper.aux
+The style file: apsrev.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: bibfile.bib
+Warning--entry type for "ET:design" isn't style-file defined
+--line 574 of file bibfile.bib
+Warning--string name "et-0106c-10" is undefined
+--line 579 of file bibfile.bib
+Warning--entry type for "whitepaper2018" isn't style-file defined
+--line 658 of file bibfile.bib
+Warning--string name "ligo-t1800133-v4" is undefined
+--line 663 of file bibfile.bib
+Warning--entry type for "voyagerupgrade" isn't style-file defined
+--line 669 of file bibfile.bib
+Warning--string name "ligo-t1400226-v9" is undefined
+--line 674 of file bibfile.bib
+Warning--entry type for "omegareview" isn't style-file defined
+--line 923 of file bibfile.bib
+Warning--string name "ligo-t1000330-v1" is undefined
+--line 928 of file bibfile.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--can't use both volume and number fields in skilling2004nested
+You've used 51 entries,
+            3411 wiz_defined-function locations,
+            1488 strings with 22129 characters,
+and the built_in function-call counts, 44881 in all, are:
+= -- 2186
+> -- 2144
+< -- 270
++ -- 1915
+- -- 528
+* -- 6591
+:= -- 4496
+add.period$ -- 51
+call.type$ -- 51
+change.case$ -- 209
+chr.to.int$ -- 50
+cite$ -- 52
+duplicate$ -- 4045
+empty$ -- 3491
+format.name$ -- 1212
+if$ -- 8180
+int.to.chr$ -- 2
+int.to.str$ -- 52
+missing$ -- 607
+newline$ -- 168
+num.names$ -- 153
+pop$ -- 928
+preamble$ -- 1
+purify$ -- 204
+quote$ -- 0
+skip$ -- 1735
+stack$ -- 0
+substring$ -- 843
+swap$ -- 3473
+text.length$ -- 258
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 306
+warning$ -- 1
+while$ -- 123
+width$ -- 0
+write$ -- 556
+(There were 9 warnings)

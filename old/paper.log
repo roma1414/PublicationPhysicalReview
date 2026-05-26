@@ -1,0 +1,614 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.6)  5 DEC 2018 14:32
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**paper.tex
+(./paper.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/revtex4/revtex4.cls
+Document Class: revtex4 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for do
+cumentation)
+ Copyright (c) 2001 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <ogawa@teleport.com>
+ Based on work by David Carlisle <david@dcarlisle.demon.co.uk>.
+ltxutil: portions licensed from W. E. Baxter (web@superscript.com)
+Class revtex4 Info: Repairing broken LateX \@sect on input line 596.
+\intertabularlinepenalty=\count79
+\@tbpen=\count80
+\@arstrutbox@hline=\box26
+Class revtex4 Info: Repairing broken LaTeX \@xbitor on input line 1610.
+ltxgrid: portions licensed from W. E. Baxter (web@superscript.com)
+\c@linecount=\count81
+\output=\toks14
+\@protection@box=\box27
+\@topmark@saved=\toks15
+\footins@saved=\box28
+\pagesofar=\box29
+\footbox=\box30
+\pagegrid@col=\count82
+Class revtex4 Info: Incorporating package {textcase}  [1998/11/12 v0.06 Text on
+ly upper/lower case changing (DPC)]. on input line 3682.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@affil=\count83
+\absbox=\box31
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\c@figure=\count90
+\c@table=\count91
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count92
+)
+\widetext@top=\box32
+\widetext@bot=\box33
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/revtex4/revsymb.sty
+Package: revsymb 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documenta
+tion)
+LaTeX Info: Redefining \REV@mathfrak on input line 118.
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/revtex4/aps.rtx
+File: aps.rtx 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documentatio
+n)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/revtex4/10pt.rtx
+File: 10pt.rtx 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documentati
+on)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen104
+\extrarowheight=\dimen105
+\NC@list=\toks17
+\extratabsurround=\skip45
+\backup@length=\skip46
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/latin9.def
+File: latin9.def 2015/03/17 v1.2c Input encoding file
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip47
+\subfigcapskip=\skip48
+\subfigcaptopadj=\dimen106
+\subfigbottomskip=\skip49
+\subfigcapmargin=\dimen107
+\subfiglabelskip=\skip50
+\c@subfigure=\count94
+\c@lofdepth=\count95
+\c@subtable=\count96
+\c@lotdepth=\count97
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip51
+\subfig@bottom=\skip52
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count98
+\float@exts=\toks20
+\float@box=\box34
+\@float@everytoks=\toks21
+\@floatcapt=\box35
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip53
+\LTright=\skip54
+\LTpre=\skip55
+\LTpost=\skip56
+\LTchunksize=\count99
+\LTcapwidth=\dimen108
+\LT@head=\box36
+\LT@firsthead=\box37
+\LT@foot=\box38
+\LT@lastfoot=\box39
+\LT@cols=\count100
+\LT@rows=\count101
+\c@LT@tables=\count102
+\c@LT@chunks=\count103
+\LT@p@ftn=\toks22
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks23
+\symAMSa=\mathgroup7
+\symAMSb=\mathgroup8
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+LaTeX Info: Redefining \frak on input line 111.
+LaTeX Info: Redefining \Bbb on input line 113.
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip57
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks24
+\ex@=\dimen109
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+LaTeX Info: Redefining \boldsymbol on input line 28.
+\pmbraise@=\dimen110
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count104
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count105
+\leftroot@=\count106
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count107
+\DOTSCASE@=\count108
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box40
+\strutbox@=\box41
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count109
+\c@MaxMatrixCols=\count110
+\dotsspace@=\muskip11
+\c@parentequation=\count111
+\dspbrk@lvl=\count112
+\tag@help=\toks25
+\row@=\count113
+\column@=\count114
+\maxfields@=\count115
+\andhelp@=\toks26
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks27
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks28
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+) (./paper.aux)
+\openout1 = `paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+Class revtex4 Info: Unrecognized array package. Please update this document cla
+ss! (Proceeding with fingers crossed.) on input line 54.
+Class revtex4 Info: Patching unrecognized longtable package. (Proceeding with f
+ingers crossed) on input line 54.
+Class revtex4 Info: cite was not loaded (OK!) on input line 54.
+Class revtex4 Info: multicol was not loaded (OK!) on input line 54.
+ (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count116
+\scratchdimen=\dimen118
+\scratchbox=\box42
+\nofMPsegments=\count117
+\nofMParguments=\count118
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count119
+\MPscratchDim=\dimen119
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
+\everyMPtoPDFconversion=\toks30
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 78.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 78.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<Figures/spectrogram_Andresen2016_s11.png, id=14, 349.90726pt x 555.87675pt>
+File: Figures/spectrogram_Andresen2016_s11.png Graphic file (type png)
+
+<use Figures/spectrogram_Andresen2016_s11.png>
+Package pdftex.def Info: Figures/spectrogram_Andresen2016_s11.png used on input
+ line 104.
+(pdftex.def)             Requested size: 246.0pt x 390.799pt.
+
+Underfull \hbox (badness 1052) in paragraph at lines 135--136
+[]\OT1/cmr/m/n/10 Scheidegger et al. [[]] pro-duce 25 grav-i-ta-tional
+ []
+
+[2 <./Figures/spectrogram_Andresen2016_s11.png>] [3]
+<Figures/PC_plot.PNG, id=30, 1221.363pt x 1765.797pt>
+File: Figures/PC_plot.PNG Graphic file (type png)
+
+<use Figures/PC_plot.PNG>
+Package pdftex.def Info: Figures/PC_plot.PNG used on input line 231.
+(pdftex.def)             Requested size: 464.81232pt x 672.0pt.
+
+
+LaTeX Warning: Float too large for page by 45.25pt on input line 234.
+
+[4] [5 <./Figures/PC_plot.PNG>]
+<Figures/PCs_neu.png, id=38, 579.16376pt x 417.56pt>
+File: Figures/PCs_neu.png Graphic file (type png)
+ <use Figures/PCs_neu.png>
+Package pdftex.def Info: Figures/PCs_neu.png used on input line 245.
+(pdftex.def)             Requested size: 246.0pt x 177.35551pt.
+
+<Figures/PCs_sch.png, id=39, 579.16376pt x 417.56pt>
+File: Figures/PCs_sch.png Graphic file (type png)
+ <use Figures/PCs_sch.png>
+Package pdftex.def Info: Figures/PCs_sch.png used on input line 246.
+(pdftex.def)             Requested size: 246.0pt x 177.35551pt.
+
+<Figures/Recolored_Noise_Curves.png, id=40, 650.43pt x 433.62pt>
+File: Figures/Recolored_Noise_Curves.png Graphic file (type png)
+
+<use Figures/Recolored_Noise_Curves.png>
+Package pdftex.def Info: Figures/Recolored_Noise_Curves.png used on input line 
+260.
+(pdftex.def)             Requested size: 246.0pt x 163.99657pt.
+ [6] [7 <./Figures/PCs_neu.png> <./Figures/PCs_sch.png> <./Figures/Recolored_No
+ise_Curves.png>]
+
+LaTeX Warning: Reference `tab:eras' on page 8 undefined on input line 294.
+
+<Figures/Reconstruction_Plot.png, id=76, 675.7245pt x 611.886pt>
+File: Figures/Reconstruction_Plot.png Graphic file (type png)
+
+<use Figures/Reconstruction_Plot.png>
+Package pdftex.def Info: Figures/Reconstruction_Plot.png used on input line 348
+.
+(pdftex.def)             Requested size: 426.79134pt x 386.47055pt.
+
+Underfull \hbox (badness 7415) in paragraph at lines 367--368
+\OT1/cmr/m/n/10 wave-form fea-ture. For the g-mode in-jec-tions,
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 367--368
+\OT1/cmr/m/n/10 g-mode) were used. For the SASI in-jec-tions,
+ []
+
+[8] <Figures/SNR_neu_2.png, id=81, 566.115pt x 417.56pt>
+File: Figures/SNR_neu_2.png Graphic file (type png)
+
+<use Figures/SNR_neu_2.png>
+Package pdftex.def Info: Figures/SNR_neu_2.png used on input line 379.
+(pdftex.def)             Requested size: 246.0pt x 181.44598pt.
+ <Figures/SNR_sch.png, id=82, 566.115pt x 417.56pt>
+File: Figures/SNR_sch.png Graphic file (type png)
+
+<use Figures/SNR_sch.png>
+Package pdftex.def Info: Figures/SNR_sch.png used on input line 380.
+(pdftex.def)             Requested size: 246.0pt x 181.44598pt.
+ <Figures/SNR_gmode.png, id=83, 566.115pt x 417.56pt>
+File: Figures/SNR_gmode.png Graphic file (type png)
+
+<use Figures/SNR_gmode.png>
+Package pdftex.def Info: Figures/SNR_gmode.png used on input line 381.
+(pdftex.def)             Requested size: 246.0pt x 181.44598pt.
+
+<Figures/SNR_sasi.png, id=84, 571.13374pt x 417.56pt>
+File: Figures/SNR_sasi.png Graphic file (type png)
+
+<use Figures/SNR_sasi.png>
+Package pdftex.def Info: Figures/SNR_sasi.png used on input line 382.
+(pdftex.def)             Requested size: 246.0pt x 179.85312pt.
+ [9 <./Figures/Reconstruction_Plot.png>]
+<Figures/neu_eff_cat.png, id=89, 572.1375pt x 417.56pt>
+File: Figures/neu_eff_cat.png Graphic file (type png)
+
+<use Figures/neu_eff_cat.png>
+Package pdftex.def Info: Figures/neu_eff_cat.png used on input line 397.
+(pdftex.def)             Requested size: 246.0pt x 179.53455pt.
+
+<Figures/sch_eff_cat.png, id=90, 566.115pt x 417.56pt>
+File: Figures/sch_eff_cat.png Graphic file (type png)
+
+<use Figures/sch_eff_cat.png>
+Package pdftex.def Info: Figures/sch_eff_cat.png used on input line 398.
+(pdftex.def)             Requested size: 246.0pt x 181.44598pt.
+
+<Figures/neu_eff_nonc.png, id=91, 572.1375pt x 417.56pt>
+File: Figures/neu_eff_nonc.png Graphic file (type png)
+
+<use Figures/neu_eff_nonc.png>
+Package pdftex.def Info: Figures/neu_eff_nonc.png used on input line 399.
+(pdftex.def)             Requested size: 246.0pt x 179.53455pt.
+
+<Figures/sch_eff_nonc.png, id=92, 569.12625pt x 417.56pt>
+File: Figures/sch_eff_nonc.png Graphic file (type png)
+
+<use Figures/sch_eff_nonc.png>
+Package pdftex.def Info: Figures/sch_eff_nonc.png used on input line 400.
+(pdftex.def)             Requested size: 246.0pt x 180.49026pt.
+ [10 <./Figures/SNR_neu_2.png> <./Figures/SNR_sch.png> <./Figures/SNR_gmode.png
+> <./Figures/SNR_sasi.png>]
+
+Class revtex4 Warning: Dequeueing of floats stalled.
+
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 406.
+
+<Figures/eff_gmode.png, id=101, 572.1375pt x 417.56pt>
+File: Figures/eff_gmode.png Graphic file (type png)
+
+<use Figures/eff_gmode.png>
+Package pdftex.def Info: Figures/eff_gmode.png used on input line 412.
+(pdftex.def)             Requested size: 246.0pt x 179.53455pt.
+
+<Figures/eff_sasi.png, id=102, 572.1375pt x 417.56pt>
+File: Figures/eff_sasi.png Graphic file (type png)
+
+<use Figures/eff_sasi.png>
+Package pdftex.def Info: Figures/eff_sasi.png used on input line 413.
+(pdftex.def)             Requested size: 246.0pt x 179.53455pt.
+ (./paper.bbl [11] [12 <./Figures/neu_eff_cat.png> <./Figures/sch_eff_cat.png> 
+<./Figures/neu_eff_nonc.png> <./Figures/sch_eff_nonc.png> <./Figures/eff_gmode.
+png> <./Figures/eff_sasi.png>]
+Underfull \hbox (badness 3780) in paragraph at lines 33--39
+ []\OT1/cmr/m/n/9 B. P. Ab-bott et al. (LIGO Sci-en-tific Col-lab-o-ra-
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 33--39
+ \OT1/cmr/m/n/9 tion and Virgo Col-lab-o-ra-tion), Phys. Rev. D \OT1/cmr/bx/n/9
+ 94\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 42--50
+ \OT1/cmr/m/n/9 and C. D. Ott, Phys. Rev. D \OT1/cmr/bx/n/9 93\OT1/cmr/m/n/9 , 
+042002 (2016),
+ []
+
+
+Underfull \hbox (badness 5756) in paragraph at lines 108--119
+ []\OT1/cmr/m/n/9 Y. Aso, Y. Michimura, K. Somiya, M. Ando,
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 251--258
+ \OT1/cmr/m/n/9 Mon. Not. Roy. As-tron. Soc. \OT1/cmr/bx/n/9 468\OT1/cmr/m/n/9 
+, 2032 (2017),
+ []
+
+
+Underfull \hbox (badness 5359) in paragraph at lines 289--301
+ []\OT1/cmr/m/n/9 K. N. Yakunin, A. Mez-za-cappa, P. Mar-ronetti,
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 325--332
+ []\OT1/cmr/m/n/9 A. Torres-Forn^^Se, P. Cerd^^Sa-Dur^^San, A. Pas-sa-monti,
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 409--422
+ \OT1/cmr/m/n/9 and R. Bassiri, \OT1/cmr/m/it/9 2018 in-stru-ment sci-ence whit
+e pa-
+ []
+
+
+Underfull \hbox (badness 5756) in paragraph at lines 432--444
+ []\OT1/cmr/m/n/9 Y. Aso, Y. Michimura, K. Somiya, M. Ando,
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 447--456
+ []\OT1/cmr/m/n/9 R. Ad-hikari, N. Smith, A. Brooks, E. Gustafson,
+ []
+
+
+Underfull \hbox (badness 7238) in paragraph at lines 447--456
+ \OT1/cmr/m/n/9 D. Coyne, L. Bar-sotti, and B. Shapiro, \OT1/cmr/m/it/9 Ligo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--456
+ \OT1/cmr/m/it/9 voy-ager up-grade con-cept \OT1/cmr/m/n/9 (2017), URL $https :
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--456
+ \OT1/cmr/m/n/9 / / dcc . ligo . org / cgi-[]bin / private / DocDB / ShowDocume
+nt ?
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 464--468
+ []\OT1/cmr/m/n/9 C. Un-nikr-ish-nan, In-ter-na-tional Jour-nal of Mod-ern
+ []
+
+[13]
+Underfull \hbox (badness 2903) in paragraph at lines 511--523
+ \OT1/cmr/m/n/9 S. Ko-posov, S. Hodgkin, M. Ir-win, G. Gilmore,
+ []
+
+) [14] (./paper.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4720 strings out of 492995
+ 64223 string characters out of 6132704
+ 173890 words of memory out of 5000000
+ 8162 multiletter control sequences out of 15000+600000
+ 14642 words of font info for 54 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,11n,29p,1964b,415s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loc
+al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local
+/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texli
+ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/
+2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/201
+7/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2017/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2017/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2017/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2017/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on paper.pdf (14 pages, 1848792 bytes).
+PDF statistics:
+ 178 PDF objects out of 1000 (max. 8388607)
+ 110 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+
